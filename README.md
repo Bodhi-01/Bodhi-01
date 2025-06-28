@@ -9,7 +9,7 @@
     </picture>
     
 <br/>
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Bodhi-01&theme=github-dark&hide_border=true&area=true" />
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Bodhi-01&theme=github-light&hide_border=true&area=true" />
 <br/>
 
 <p align="center">
